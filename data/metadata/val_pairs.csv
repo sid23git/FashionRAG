@@ -1,0 +1,4 @@
+query_text,ground_truth_path
+blue denim jacket,data/raw_images/fashion_item_0.jpg
+red summer dress,data/raw_images/fashion_item_1.jpg
+black running shoes,data/raw_images/fashion_item_2.jpg
